@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**mahdishahsavari/mahdishahsavari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on My GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently working on NLP, LLM, Deep Learning, ML <br>👯 I’m looking to collaborate on Teams with New Ideas<br>🤝 I’m Interested in working as Data Scientist<br>⚡ I have a couple of experiences in web development and AI fields 
 
@@ -24,4 +19,3 @@
 [![](https://visitcount.itsvg.in/api?id=mahdishahsavari&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
